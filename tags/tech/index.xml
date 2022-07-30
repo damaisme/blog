@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>tech on Damasukma Trihanandi</title>
+    <link>/tags/tech/</link>
+    <description>Recent content in tech on Damasukma Trihanandi</description>
+    <image>
+      <url>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 30 Jul 2022 11:10:18 +0700</lastBuildDate><atom:link href="/tags/tech/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apakah Vpn Aman?</title>
+      <link>/post/apakah-vpn-aman/</link>
+      <pubDate>Sat, 30 Jul 2022 11:10:18 +0700</pubDate>
+      
+      <guid>/post/apakah-vpn-aman/</guid>
+      <description>Well Played KOMINFO</description>
+    </item>
+    
+  </channel>
+</rss>
