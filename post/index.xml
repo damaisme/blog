@@ -19,14 +19,5 @@
       <description>Well Played KOMINFO</description>
     </item>
     
-    <item>
-      <title>Custom SAST Pipeline</title>
-      <link>/post/custom-sast-pipeline/</link>
-      <pubDate>Fri, 08 Jul 2022 14:11:15 +0700</pubDate>
-      
-      <guid>/post/custom-sast-pipeline/</guid>
-      <description>SAST dulunya adalah fitur dari gitlab ultimate, tapi sekarang dijadikan all tier tetapi terbatas dari segi fitur. Maka dari itu saya membuat tulisan ini untuk mengkostumisasi pipeline sast agar terasa ultimate.</description>
-    </item>
-    
   </channel>
 </rss>
