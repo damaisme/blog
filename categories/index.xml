@@ -9,7 +9,34 @@
       <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 Jul 2022 11:10:18 +0700</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Oct 2022 20:28:26 +0700</lastBuildDate><atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>devops</title>
+      <link>/categories/devops/</link>
+      <pubDate>Tue, 04 Oct 2022 20:28:26 +0700</pubDate>
+      
+      <guid>/categories/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>itnsa</title>
+      <link>/categories/itnsa/</link>
+      <pubDate>Tue, 04 Oct 2022 20:28:26 +0700</pubDate>
+      
+      <guid>/categories/itnsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>notes</title>
+      <link>/categories/notes/</link>
+      <pubDate>Tue, 04 Oct 2022 19:17:02 +0700</pubDate>
+      
+      <guid>/categories/notes/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>tech</title>
       <link>/categories/tech/</link>

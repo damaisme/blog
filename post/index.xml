@@ -9,7 +9,30 @@
       <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 Jul 2022 11:10:18 +0700</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Oct 2022 20:28:26 +0700</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deploy Local Docker Registry</title>
+      <link>/post/deploy-docker-registry/</link>
+      <pubDate>Tue, 04 Oct 2022 20:28:26 +0700</pubDate>
+      
+      <guid>/post/deploy-docker-registry/</guid>
+      <description>Tutorial deploy local/private docker registry.</description>
+    </item>
+    
+    <item>
+      <title>CA With OpenSSL</title>
+      <link>/post/ca-with-openssl/</link>
+      <pubDate>Tue, 04 Oct 2022 19:17:02 +0700</pubDate>
+      
+      <guid>/post/ca-with-openssl/</guid>
+      <description>Generates a private key
+openssl genpkey -algorithm RSA -pkeyopt rsa_keygen_bits:2048 -pkeyopt rsa_keygen_pubexp:3 -out privkey.pem Generates a public key
+openssl pkey -in privkey.pem -pubout -out pubkey.pem Generate CSR (Certificate Signing Requset) From the Existing Private Key
+openssl req -new -key example.key -out example.csr -subj &amp;#34;/C=GB/ST=London/L=London/O=Global Security/OU=IT Department/CN=example.com&amp;#34; Create new Private key and Generate CSR
+openssl req -nodes -newkey rsa:2048 -keyout example.key -out example.csr -subj &amp;#34;/C=GB/ST=London/L=London/O=Global Security/OU=IT Department/CN=example.com&amp;#34; Generete CA root
+openssl req -x509 -new -nodes -key rootkey.</description>
+    </item>
+    
     <item>
       <title>Apakah Vpn Aman?</title>
       <link>/post/apakah-vpn-aman/</link>

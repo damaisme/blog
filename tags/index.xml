@@ -9,7 +9,52 @@
       <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 30 Jul 2022 11:10:18 +0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 04 Oct 2022 20:28:26 +0700</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>devops</title>
+      <link>/tags/devops/</link>
+      <pubDate>Tue, 04 Oct 2022 20:28:26 +0700</pubDate>
+      
+      <guid>/tags/devops/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>/tags/docker/</link>
+      <pubDate>Tue, 04 Oct 2022 20:28:26 +0700</pubDate>
+      
+      <guid>/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ITNSA</title>
+      <link>/tags/itnsa/</link>
+      <pubDate>Tue, 04 Oct 2022 20:28:26 +0700</pubDate>
+      
+      <guid>/tags/itnsa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>notes</title>
+      <link>/tags/notes/</link>
+      <pubDate>Tue, 04 Oct 2022 19:17:02 +0700</pubDate>
+      
+      <guid>/tags/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>openssl</title>
+      <link>/tags/openssl/</link>
+      <pubDate>Tue, 04 Oct 2022 19:17:02 +0700</pubDate>
+      
+      <guid>/tags/openssl/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>tech</title>
       <link>/tags/tech/</link>
