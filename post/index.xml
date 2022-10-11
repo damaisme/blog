@@ -9,7 +9,18 @@
       <link>%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 04 Oct 2022 20:28:26 +0700</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 11 Oct 2022 12:01:32 +0700</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setup Self-host Gitlab Server</title>
+      <link>/post/setup-gitlab-server/</link>
+      <pubDate>Tue, 11 Oct 2022 12:01:32 +0700</pubDate>
+      
+      <guid>/post/setup-gitlab-server/</guid>
+      <description>Introduction GitLab is an open source end-to-end software development platform with built-in version control, issue tracking, code review, CI/CD, and more. You can Self-host GitLab on your own servers, in a container, or on a cloud provider if you care about privacy and some customization can be done in this self-hosted or self-managed gitlab.
+Installation 1. Install and configure the necessary dependencies
+sudo apt-get update sudo apt-get install -y curl openssh-server ca-certificates tzdata perl Next, install Postfix to send notification emails.</description>
+    </item>
+    
     <item>
       <title>Deploy Local Docker Registry</title>
       <link>/post/deploy-docker-registry/</link>
